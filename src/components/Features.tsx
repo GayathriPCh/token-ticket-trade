@@ -42,7 +42,7 @@ const Features = () => {
             <span className="text-purple-300 text-sm font-medium">Revolutionary Features</span>
           </div>
           
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
+          <h2 className="text-4xl md:text-5xl font-bold text-white mb-6" >
             Revolutionizing Event{" "}
             <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
               Ticketing
